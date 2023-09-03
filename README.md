@@ -11,3 +11,5 @@
 <p>email: admin@example.com<br>
    password: 123</p>
 <p>Jika database tidak terdekteksi masukan perintah: php artisan migrate</p>
+<h3>Note:</h3>
+<p>Jangan lupa di .env sesuaikan nama database nya atau sama kan yang seperti saya car_rental</p>
