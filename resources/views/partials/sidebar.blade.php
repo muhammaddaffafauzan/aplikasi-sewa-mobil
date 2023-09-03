@@ -33,14 +33,6 @@
         <i class="fas fa-envelope fa-fw"></i>
         <span>Daftar Pesan</span></a>
 </li>
-<li class="nav-item active">
-    <a class="nav-link" onclick="document.getElementById('logout-form').submit()" href="#">
-        <i class="fas fa-envelope fa-fw"></i>
-        <span>Logout</span></a>
-        <form id="logout-form" action="{{ route('logout') }}" method="post">
-          @csrf
-        </form>
-</li>
 
 <!-- Heading -->
 
