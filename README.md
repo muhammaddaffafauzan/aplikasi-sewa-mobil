@@ -6,6 +6,8 @@
 <h3>cara akses admin</h3>
 <p>Login terlebih dahulu masukan akun yang dibawah masukan ke paramter https://localhost:8000/login
 </p>
+<h3>Cara akses pengguna</h3>
+<p>masukan ke parameter https://localhost:8000</p>
 <h5>Akun admin</h5>
 <p>email: admin@example.com<br>
    password: 123</p>
