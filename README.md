@@ -12,4 +12,4 @@
 <p>Jika database tidak terdekteksi masukan perintah: <code>php artisan migrate</code></p>
 <h3>Note:</h3>
 <p>Jangan lupa di .env sesuaikan nama database nya atau sama kan yang seperti saya car_rental</p>
-<p>karena gambar saya taro nya di storage maka masukan perintah di terminal: php artisan storage:link </p>
+<p>karena gambar saya taro nya di storage maka masukan perintah di terminal: <code>php artisan storage:link</code> </p>
