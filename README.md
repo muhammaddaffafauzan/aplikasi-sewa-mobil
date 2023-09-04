@@ -2,9 +2,10 @@
 <span>Hak akses</span><br>
 <ul>
     <li>Admin</li>
+    <li>Pengguna</li>
 </ul>
 <h3>cara akses admin</h3>
-<p>Login terlebih dahulu masukan akun yang dibawah masukan ke paramter https://localhost:8000/login
+<p>Login terlebih dahulu masukan akun yang dibawah masukan ke paramter <code>https://localhost:8000/login</code>
 </p>
 <h3>Cara akses pengguna</h3>
 <p>masukan ke parameter https://localhost:8000</p>
