@@ -5,7 +5,7 @@
     <li>Pengguna</li>
 </ul>
 <h3>cara akses admin</h3>
-<p>Login terlebih dahulu masukan akun yang dibawah masukan ke parameter <code>https://localhost:8000/login</code>
+<p>Login terlebih dahulu masukan akun yang dibawah, masukan ke parameter <code>https://localhost:8000/login</code>
 </p>
 <h3>Cara akses pengguna</h3>
 <p>masukan ke parameter https://localhost:8000</p>
