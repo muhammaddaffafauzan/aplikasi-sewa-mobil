@@ -124,7 +124,7 @@
                 <div class="text-center">
                   <a
                     class="btn d-flex align-items-center justify-content-center btn-primary mt-auto"
-                    href="#"
+                    href="https://api.whatsapp.com/send?phone=62895387417000&text=Saya%20ingin%20sewa%20{{ $car->nama_mobil }}%20di%20sewa%20aja%20bandung"
                     style="column-gap: 0.4rem"
                     >Sewa Mobil <i class="ri-whatsapp-line"></i
                   ></a>
